@@ -17,7 +17,13 @@ public class Segment {
         return this.p1;
 
     }
+    public Point getP2(){
+        return this.p2;
+    }
     public void setp1(Point p){
         this.p1=p;
+    }
+    public void setp2(Point p){
+        this.p2=p;
     }
 }

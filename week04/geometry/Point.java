@@ -19,7 +19,13 @@ public class Point {
     public float getX(){
         return this.x;
     }
+    public float getY(){
+        return this.y;
+    }
     public void setx(float x){
         this.x=x;
+    }
+    public void Sety(float y){
+        this.y=y;
     }
 }
