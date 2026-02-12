@@ -25,7 +25,7 @@ public class Point {
     public void setx(float x){
         this.x=x;
     }
-    public void Sety(float y){
+    public void sety(float y){
         this.y=y;
     }
 }
